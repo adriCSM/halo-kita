@@ -24,9 +24,13 @@ main {
   font-family: 'Poppins', sans-serif;
 }
 
+:root {
+  --px: 0 54.5px;
+}
 .router-link-active {
   background-color: #fec395;
   width: 115px;
+
   height: 32px;
   border-radius: 10px;
   padding: 5px;

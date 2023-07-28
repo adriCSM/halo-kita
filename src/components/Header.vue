@@ -20,7 +20,7 @@
         />
       </v-col>
 
-      <v-col cols="auto py-0" align-self="center font-weight-medium">
+      <v-col cols="auto py-0" align-self="center " class="font-weight-medium">
         <v-list>
           <router-link to="/" class="text-decoration-none">
             <v-list-items class="mx-4 text-black"> Beranda </v-list-items>
